@@ -1,0 +1,38 @@
+<Wall>
+	<Width>
+		300
+	</Width>
+	<Height>
+		300
+	</Height>
+</Wall>
+
+<One>
+	<OffsetX>
+		0
+	</OffsetX>
+	<OffsetY>
+		0
+	</OffsetY>
+	<Width>
+		100
+	</Width>
+	<Height>
+		100
+	</Height>
+</One>
+
+<Two>
+	<OffsetX>
+		100
+	</OffsetX>
+	<OffsetY>
+		100
+	</OffsetY>
+	<Width>
+		100
+	</Width>
+	<Height>
+		100
+	</Height>
+</Two>

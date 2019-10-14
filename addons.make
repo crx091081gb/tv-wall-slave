@@ -1,0 +1,3 @@
+ofxOsc
+ofxOMXPlayer
+ofxXmlSettings
